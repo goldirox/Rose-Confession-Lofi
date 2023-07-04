@@ -1,0 +1,10 @@
+{
+  "name": "Rose Confession Lofi",
+  "description": "Artist : Azelyra, SEGA. Lofi version of Rose Confession from Phantasy Star Online.",
+  "author": "Goldirox",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
